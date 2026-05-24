@@ -26,3 +26,38 @@ export const DEFAULT_LIVE_API_MODEL = 'gemini-2.5-flash-native-audio-preview-09-
 export const DEFAULT_VOICE = 'Zephyr';
 
 export const AVAILABLE_VOICES = ['Zephyr', 'Puck', 'Charon', 'Luna', 'Nova', 'Kore', 'Fenrir',	'Leda', 'Orus','Aoede','Callirrhoe','Autonoe','Enceladus','Iapetus','Umbriel','Algieba','Despina','Erinome','Algenib','Rasalgethi','Laomedeia','Achernar','Alnilam','Schedar','Gacrux','Pulcherrima','Achird',	'Zubenelgenubi','Vindemiatrix','Sadachbia','Sadaltager','Sulafat'];
+
+export const VOICE_ALIASES: Record<string, string> = {
+  'Zephyr': 'Flash',
+  'Puck': 'Spider-Man',
+  'Charon': 'Batman',
+  'Luna': 'Wonder Woman',
+  'Nova': 'Captain Marvel',
+  'Kore': 'Black Widow',
+  'Fenrir': 'Wolverine',
+  'Leda': 'Scarlet Witch',
+  'Orus': 'Iron Man',
+  'Aoede': 'Storm',
+  'Callirrhoe': 'Jean Grey',
+  'Autonoe': 'Supergirl',
+  'Enceladus': 'Thor',
+  'Iapetus': 'Captain America',
+  'Umbriel': 'Raven',
+  'Algieba': 'Gamora',
+  'Despina': 'Rogue',
+  'Erinome': 'Invisible Woman',
+  'Algenib': 'Superman',
+  'Rasalgethi': 'Hulk',
+  'Laomedeia': 'Batgirl',
+  'Achernar': 'Green Lantern',
+  'Alnilam': 'Aquaman',
+  'Schedar': 'Zatanna',
+  'Gacrux': 'Nightwing',
+  'Pulcherrima': 'Starfire',
+  'Achird': 'Cyclops',
+  'Zubenelgenubi': 'Daredevil',
+  'Vindemiatrix': 'Wasp',
+  'Sadachbia': 'Hawkeye',
+  'Sadaltager': 'Doctor Strange',
+  'Sulafat': 'Black Panther'
+};
