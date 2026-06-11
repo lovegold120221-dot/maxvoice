@@ -1,9 +1,9 @@
 {
-  apiKey: "AIzaSyDjmcE7CiKrNpSnu20gFB2cG620HU36Zqg",
-  authDomain: "gen-lang-client-0836251512.firebaseapp.com",
-  projectId: "gen-lang-client-0836251512",
-  storageBucket: "gen-lang-client-0836251512.firebasestorage.app",
-  messagingSenderId: "811711024905",
-  appId: "1:811711024905:web:65c6d67b963f9fec1b8dd8",
-  measurementId: "G-Z597RGXF9K"
+  apiKey: "AIzaSyCiPY9UZUpoZsy2AReHkb-HDB0FtxYd_T0",
+  authDomain: "eburon-ai-beatrice.firebaseapp.com",
+  databaseURL: "https://eburon-ai-beatrice-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "eburon-ai-beatrice",
+  storageBucket: "eburon-ai-beatrice.firebasestorage.app",
+  messagingSenderId: "874569824011",
+  appId: "1:874569824011:web:b5ec70e6e2adced9b0140e"
 }
